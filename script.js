@@ -12,5 +12,7 @@ function resetImages() {
     document.getElementById("img4").style.opacity = 1; 
     document.getElementById("img5").style.opacity = 1; 
     document.getElementById("img6").style.opacity = 1; 
+    document.getElementById("img7").style.opacity = 1; 
+    document.getElementById("img8").style.opacity = 1; 
 
 }
