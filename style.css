@@ -39,13 +39,19 @@ body {
     margin: 0 30px;
     width: 8%;
     height: auto;
-    transition: all 0.15s;
+    transition: all 0.25s;
 }
 
 .refCard:hover {
     transform: scale(3.2) translateY(70px);
     z-index: 999;
+}
+
+.perkCard:hover {
+    transform: scale(4) translateY(80px);
+    z-index: 999;
 }   
+
 
 .resetButton {
     font-weight: bold;
